@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 My name is yswdqz, a sophomore student.
+- 👨‍🎓 My name is yswdqz, a junior student.
 - ⚡ I am contributing in the Apache SkyWalking Community - https://github.com/apache/skywalking.
 - 🏹 I would like to recommend my good friends [tick](https://github.com/TickHeart) and [Guyuang](https://github.com/Guyuang), They have all helped me a lot and I am grateful for them.
 - 🌱 I’m currently learning K8S and golang.
